@@ -1,12 +1,14 @@
-# VS Code Setup
-
-Settings and extensions that I use for my VS Code environment.
+<div align="center">
+<h1>VS Code Setup</h1>
+<p>Settings and extensions I use for my VS Code environment.</p>
+</div>
 
 ## Installation
 
-1. Download the **Settings Sync** extension by _Shan Khan_.
-2. Use the extension to download the settings from the gist ID below.
+1. Download **Settings Sync** extension by _Shan Khan_.
+2. `Ctrl + Shift + P` and select **Sync: Advanced Options** => **Sync: Download Settings from Public GIST**.
+3. Copy and paste gist ID below.
 
-    > Gist ID: f521a43d66da0dfc30dd355021d5e281
+    > Gist ID: 1b81d786e26e2c75d684b61f77ff6d17
 
-3. All extensions will now be downloaded and settings will be applied.
+4. All settings and extensions will now be applied and downloaded.
