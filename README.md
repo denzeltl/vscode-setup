@@ -13,9 +13,11 @@
 
 4. All settings and extensions will now be applied and downloaded.
 
+---
+
 <details>
 
-<summary><b>Included Extensions</b></summary>
+<summary><h2>Included Extensions</h2></summary>
 
 -   **Bracket Pair Colorizer 2** by _CoenraadS_ - A customizable extension for colorizing matching brackets
 -   **Cobalt2 Theme Official** by _Wes Bos_ - Official theme by Wes Bos
