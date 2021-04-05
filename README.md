@@ -17,7 +17,7 @@
 
 <details>
 
-<summary><h2>Included Extensions</h2></summary>
+<summary><b>Included Extensions</b></summary>
 
 -   **Bracket Pair Colorizer 2** by _CoenraadS_ - A customizable extension for colorizing matching brackets
 -   **Cobalt2 Theme Official** by _Wes Bos_ - Official theme by Wes Bos
