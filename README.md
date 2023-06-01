@@ -34,3 +34,74 @@
 -   **vscode-styled-components** by _Julien Poissonnier_ - Syntax highlighting for styled-components
 
 </details>
+
+---
+
+<details>
+
+<summary><b>settings.json</b></summary>
+
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.lineHeight": 29,
+    "breadcrumbs.enabled": false,
+    "editor.fontSize": 16,
+    "editor.cursorWidth": 5,
+    "workbench.statusBar.visible": true,
+    "workbench.activityBar.visible": true,
+    "editor.minimap.renderCharacters": false,
+    "editor.minimap.showSlider": "always",
+    "workbench.sideBar.location": "left",
+    "files.autoSave": "off",
+    "editor.renderWhitespace": "none",
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[nunjucks]": {
+        "editor.defaultFormatter": "okitavera.vscode-nunjucks-formatter"
+    },
+    "workbench.colorCustomizations": {
+        "editorIndentGuide.activeBackground": "#d1905fdc",
+        /* error squiggles */
+        "editorError.foreground": "#ff0022",
+        // "editorError.border": "#ff0000",
+        "editorError.background": "#720505"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.editor.highlightModifiedTabs": true,
+    "php.validate.executablePath": "C:\\xampp\\php\\php.exe",
+    "workbench.editor.enablePreview": false,
+    "todo-tree.highlights.enabled": true,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "editor.smoothScrolling": true,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.largeFileOptimizations": false,
+    "todo-tree.tree.showScanModeButton": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "files.associations": {
+        "*.js": "javascriptreact"
+    },
+    "editor.formatOnPaste": true,
+    "git.enableSmartCommit": true,
+    "editor.tabSize": 2,
+    "prettier.tabWidth": 4,
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.foldingMaximumRegions": 10000,
+    "editor.wordWrap": "bounded",
+    "editor.wordWrapColumn": 120,
+    "prettier.printWidth": 120,
+    "git.confirmSync": false,
+    "workbench.colorTheme": "Night Owl",
+    "editor.fontLigatures": false,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": "active",
+    "editor.codeActionsOnSave": {}
+}
+
+</details>
